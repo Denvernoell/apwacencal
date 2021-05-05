@@ -1,0 +1,44 @@
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+<style>
+	.floating-btn {
+		width: 30px;
+		height: 30px;
+		background-color: seagreen;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		text-decoration: none;
+		border-radius: 50%;
+		color: white;
+		font-size: 40px;
+		box-shadow: 2px 2px 5px black;
+		position: fixed;
+		
+		bottom: 50%;
+		transition: background 0.25s;
+		border: none;
+		cursor: pointer;
+	}
+
+	.right {
+		right: 20px;
+	}
+
+	.left {
+		left: 20px;
+	}
+
+	.floating-btn:active {
+		background: brown;
+	}
+</style>
+
+<a href="google.com">
+	<button class="material-icons floating-btn right">chevron_right</button>
+</a>
+
+<a href="google.com">
+	<button class="material-icons floating-btn left">chevron_left
+			</button>
+</a>
