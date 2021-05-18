@@ -1,0 +1,657 @@
+error: RPC failed; curl 56 GnuTLS recv error (-54): Error in the pull function.
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 92 HTTP/2 stream 0 was not closed cleanly: CANCEL (err 8)
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 92 HTTP/2 stream 0 was not closed cleanly: CANCEL (err 8)
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 92 HTTP/2 stream 0 was not closed cleanly: CANCEL (err 8)
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 56 GnuTLS recv error (-54): Error in the pull function.
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 56 GnuTLS recv error (-54): Error in the pull function.
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 56 GnuTLS recv error (-54): Error in the pull function.
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+error: RPC failed; curl 56 GnuTLS recv error (-54): Error in the pull function.
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 56 GnuTLS recv error (-54): Error in the pull function.
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 56 GnuTLS recv error (-54): Error in the pull function.
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 56 GnuTLS recv error (-54): Error in the pull function.
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+error: RPC failed; curl 56 GnuTLS recv error (-54): Error in the pull function.
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 56 GnuTLS recv error (-12): A TLS fatal alert has been received.
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 56 GnuTLS recv error (-54): Error in the pull function.
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+error: RPC failed; curl 56 GnuTLS recv error (-54): Error in the pull function.
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+fatal: unable to access 'https://github.com/Denvernoell/apwacencal/': Could not resolve host: github.com
+error: RPC failed; curl 56 GnuTLS recv error (-54): Error in the pull function.
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 56 GnuTLS recv error (-54): Error in the pull function.
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 56 GnuTLS recv error (-54): Error in the pull function.
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 56 GnuTLS recv error (-54): Error in the pull function.
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 56 GnuTLS recv error (-54): Error in the pull function.
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 56 GnuTLS recv error (-54): Error in the pull function.
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 56 GnuTLS recv error (-54): Error in the pull function.
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 56 GnuTLS recv error (-54): Error in the pull function.
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 56 GnuTLS recv error (-54): Error in the pull function.
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 56 GnuTLS recv error (-54): Error in the pull function.
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 56 GnuTLS recv error (-54): Error in the pull function.
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 56 GnuTLS recv error (-54): Error in the pull function.
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 56 GnuTLS recv error (-54): Error in the pull function.
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 56 GnuTLS recv error (-54): Error in the pull function.
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 56 GnuTLS recv error (-54): Error in the pull function.
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 56 GnuTLS recv error (-54): Error in the pull function.
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 56 GnuTLS recv error (-54): Error in the pull function.
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 56 GnuTLS recv error (-54): Error in the pull function.
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 56 GnuTLS recv error (-54): Error in the pull function.
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 56 GnuTLS recv error (-54): Error in the pull function.
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 56 GnuTLS recv error (-54): Error in the pull function.
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 56 GnuTLS recv error (-54): Error in the pull function.
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 56 GnuTLS recv error (-54): Error in the pull function.
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 56 GnuTLS recv error (-54): Error in the pull function.
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 56 GnuTLS recv error (-54): Error in the pull function.
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 56 GnuTLS recv error (-54): Error in the pull function.
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+error: RPC failed; curl 55 Failed sending data to the peer
+fatal: the remote end hung up unexpectedly
